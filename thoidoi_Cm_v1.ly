@@ -12,6 +12,8 @@ short-indent = 7.5\mm
   title = "Thói đời"
   subtitle = "Easy Solo Series Ver 1.0"
   composer = "Nhạc và lời: Trúc Phương"
+  arranger = "Arranger: Hung Nguyen"
+  
 }
 
 
@@ -76,7 +78,7 @@ melody = \relative c' {
 one = \lyricmode {      
  Đường thương đau đầy ải nhân gian 
  Ai chưa qua chưa phải là người Trong thói đời cười ra nước mắt
- Xưa trắng tay gọi tên bằng hữu Giờ giầu sang quen kẻ tâm giao
+ Xưa trắng tay gọi tên bằng hữu Giờ giầu sang quên kẻ tâm giao
  Còn gian dối cho nhau.
 }
 two = \lyricmode {
